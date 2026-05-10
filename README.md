@@ -1,5 +1,5 @@
 # Mansoor Ahmad 👋
-> **Cybersecurity Analyst | SOC Specialist | BSCS **
+> **Cybersecurity Analyst | SOC Specialist | BSCS |
 > *Deploying industrial-grade threat telemetry, SIEM logic, and raw log analysis.*
 
 ![Status](https://img.shields.io/badge/Status-Operational-brightgreen)
@@ -21,12 +21,11 @@
 
 ### 📂 Active Intelligence Portfolios
 * 🛡️ **[SOC-Detection-Engineering-Portfolio](https://github.com/kali-Crack/SOC-Detection-Engineering-Portfolio):** Documentation of APT mechanics (SideWinder .lnk payloads) and ransomware telemetry.
-
 ### 📜 Verified Credentials
 | Certification | Issuing Authority | Verification |
 | :--- | :--- | :--- |
 | Google Cybersecurity Professional | Google | ✅ Completed (April 2026) |
-| Bachelor of Computer Science | University | 🟡 6th Sem (In Progress) |
+| Bachelor of Computer Science | [Your University] | 🟡 6th Sem (In Progress) |
 
 ### ⚙️ Core Stack
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-4E9A06?style=flat-square&logo=nmap&logoColor=white) ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
