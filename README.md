@@ -32,7 +32,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-990000?style=flat-square&logo=linux&logoColor=white) ![Python](https://img.shields.io/badge/-Python-darkred?style=flat-square&logo=python&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat-square&logo=wireshark&logoColor=red) ![Nmap](https://img.shields.io/badge/-Nmap-red?style=flat-square&logo=nmap&logoColor=white) ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=red)
 
 ---
-
-### 📊 Network Telemetry (GitHub Stats)
-![Mansoor's Stats](https://github-readme-stats.vercel.app/api?username=Git-Mansoor-Ahmad&show_icons=true&theme=mercury)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Mansoor-Ahmad&layout=compact&theme=mercury)
