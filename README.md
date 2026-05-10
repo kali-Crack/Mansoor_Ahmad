@@ -1,5 +1,5 @@
 # Mansoor Ahmad 👋
-> **Cybersecurity Analyst | SOC Specialist | BSCS (6th Sem)**
+> **Cybersecurity Analyst | SOC Specialist | BSCS **
 > *Deploying industrial-grade threat telemetry, SIEM logic, and raw log analysis.*
 
 ![Status](https://img.shields.io/badge/Status-Operational-brightgreen)
@@ -21,7 +21,6 @@
 
 ### 📂 Active Intelligence Portfolios
 * 🛡️ **[SOC-Detection-Engineering-Portfolio](https://github.com/kali-Crack/SOC-Detection-Engineering-Portfolio):** Documentation of APT mechanics (SideWinder .lnk payloads) and ransomware telemetry.
-* 📈 **Trading-Automation:** Implementation of $\Phi = ( \sqrt{P} \pm \Delta\theta )^2$ for real-time market analysis.
 
 ### 📜 Verified Credentials
 | Certification | Issuing Authority | Verification |
